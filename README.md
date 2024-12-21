@@ -1,4 +1,3 @@
-"My first commit" 
 Sinhala Spell and Grammar Checker
 Overview
 The Sinhala Spell and Grammar Checker is an AI-powered tool designed to assist in correcting spelling and grammatical errors in Sinhala text. The system utilizes deep learning models to automatically correct errors based on predefined rules of Sinhala grammar.
